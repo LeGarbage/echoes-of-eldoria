@@ -12,8 +12,7 @@ Your actions throughout the game will determine whether you redeem yourself or f
 2. [Gameplay](#gameplay)
 3. [Game Features](#game-features)
 4. [Enemies](#enemies)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [License](#license)
 
 ---
 
